@@ -1,3 +1,4 @@
+//imported dependencies
 import {
   View,
   Text,
