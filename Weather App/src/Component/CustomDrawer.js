@@ -108,7 +108,7 @@ const styles = StyleSheet.create({
     backgroundColor: COLORS.BLACK,
     marginTop: hp(12)
   },
-  // A container fo the city name
+  // A container for the city name
   cityContainer: {
     flexDirection: "row",
     alignItems: "center",
