@@ -1,3 +1,11 @@
 # Codewavvy-DCIT-202-REACT-NATIVE-WEATHER-APP
 
 #ID NUMBERS AND NAME
+
+
+
+
+
+
+
+Grace Kabukie Korley - 10976144
