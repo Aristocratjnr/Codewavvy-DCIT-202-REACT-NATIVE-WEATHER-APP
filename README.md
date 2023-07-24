@@ -9,3 +9,4 @@ Obuobi Ayim David - 10945821
 Grace Kabukie Korley - 10976144
 Ketti Angela Makafui - 10974978
 Somuah Emmanuel Frimpong - 10970342
+Puplampu Hannah Buer-Norki - 
