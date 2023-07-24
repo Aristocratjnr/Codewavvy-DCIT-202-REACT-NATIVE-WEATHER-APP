@@ -22,6 +22,7 @@ const Button = ({
     },
   ];
 
+  //textStyle color mode
   const textStyle = [
     styles.buttonText,
     buttonTextStyle,
