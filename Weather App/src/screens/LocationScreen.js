@@ -1,3 +1,4 @@
+//imported dependencies
 import React, { useEffect } from "react";
 import { StatusBar } from "expo-status-bar";
 import { Alert, SafeAreaView, StyleSheet, Text, View } from "react-native";
