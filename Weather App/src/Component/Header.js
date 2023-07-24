@@ -1,3 +1,4 @@
+//imported dependencies
 import React from 'react';
 import { View, Text, StyleSheet, StatusBar } from 'react-native';
 import { hp, wp } from '../Utils/ResponsiveLayout';
