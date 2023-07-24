@@ -1,3 +1,4 @@
+//imported dependencies
 import { DrawerContentScrollView } from "@react-navigation/drawer";
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import { COLORS } from "../Utils/Colors";
