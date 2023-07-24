@@ -79,6 +79,7 @@ export const CustomDrawer = () => {
   );
 };
 
+//Styles for the weather app
 const styles = StyleSheet.create({
   container: {
     backgroundColor: COLORS.YELLOW_COLOR,
@@ -107,6 +108,7 @@ const styles = StyleSheet.create({
     backgroundColor: COLORS.BLACK,
     marginTop: hp(12)
   },
+  // A container fo the city name
   cityContainer: {
     flexDirection: "row",
     alignItems: "center",
