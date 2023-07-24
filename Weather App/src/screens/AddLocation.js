@@ -93,6 +93,7 @@ const AddLocation = () => {
 
 export default AddLocation
 
+//Styles applied to Locations added
 const styles = StyleSheet.create({
   container: {
     flex: 1,
