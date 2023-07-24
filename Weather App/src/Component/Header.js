@@ -22,6 +22,7 @@ const Header = ({ title = 'Header Title', onPressButton }) => {
 
 export default Header;
 
+// Style sheet cntainer 
 const styles = StyleSheet.create({
   container: {
     width: '100%',
