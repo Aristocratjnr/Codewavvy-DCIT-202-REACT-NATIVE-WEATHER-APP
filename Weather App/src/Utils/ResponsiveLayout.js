@@ -1,3 +1,4 @@
+//import dimensions from react-native
 import {Dimensions} from 'react-native';
 import {
   heightPercentageToDP as hp2dp,
