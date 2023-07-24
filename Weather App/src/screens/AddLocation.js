@@ -1,3 +1,4 @@
+//imported dependencies
 import { View, Text, SafeAreaView, StatusBar, StyleSheet, TextInput, Alert } from 'react-native'
 import React, { useEffect, useState } from 'react'
 import { fetchWeather } from '../Utils/ApiHelper'
