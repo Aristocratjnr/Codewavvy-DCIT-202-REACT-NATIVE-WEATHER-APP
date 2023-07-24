@@ -3,7 +3,7 @@
 #ID NUMBERS AND NAME
 
 Daniella Asiedu - 10976807
-
+Darkonno Elizabeth Mawunyo Abena - 109488153
 
 
 
